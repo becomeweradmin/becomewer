@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+	<head>BECOME WER</head>
+<body>
+	<div>
+		<h1>Finding what you love</h1>
+		<p>A lifestyle blog for trendy young adults in the modern educational scene</p>
+	</div>
+	<div>
+		<ul>
+			<li>a href="music"/>Music</li>
+			<li>Fitness</li>
+			<li>Fashion</li>
+			<li>Tech<li>
+			<li>Food</li>
+			<li>entertainment</li>
+			<li>DIY<li>
+		</ul>
+	</div>
+	</body>
+	</html>
+
+
+
+	
+	
